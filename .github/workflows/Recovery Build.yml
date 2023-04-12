@@ -14,11 +14,11 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/Nomercy992/android_device_infinix_X689-pbrp'
+        default: 'https://github.com/Nomercy992/recovery_infinix_X689'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
-        default: 'twrp'
+        default: 'TWRP'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
